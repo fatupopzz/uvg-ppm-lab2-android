@@ -11,9 +11,6 @@ La app incluye:
 ## Instrucciones para ejecutar la app localmente
 
 1. Clonar el repositorio:
-```bash
-git clone https://github.com/TU_USUARIO/uvg-ppm-lab2-android.git
-```
 
 2. Abrir el proyecto en Android Studio
 
