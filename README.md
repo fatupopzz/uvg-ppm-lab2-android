@@ -1,5 +1,8 @@
 # uvg-ppm-lab2-android
 
+<img width="307" height="624" alt="image" src="https://github.com/user-attachments/assets/e43912e7-021e-4a85-92e9-c934ae4823b8" />
+
+
 ## Descripción del proyecto
 Aplicación Android básica desarrollada con Kotlin y Jetpack Compose para el Laboratorio 2. 
 
